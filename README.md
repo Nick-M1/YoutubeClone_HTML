@@ -1,6 +1,6 @@
 ## Youtube Clone:
 
-Youtube Clone of a single webpage, using HTML & CSS
+Clone of the Youtube Homepage, using HTML & CSS
 <br>
 <br>
 
